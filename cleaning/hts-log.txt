@@ -1,0 +1,22 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 23 Jun 2023 21:40:07 at https://demo.voidcoders.com/htmldemo/hexa/main-files/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://demo.voidcoders.com/htmldemo/hexa/main-files/index.html -O "/home/bibek/montessori/cleaning" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:41:20	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://demo.voidcoders.com/htmldemo/hexa/main-files/index.html)
+21:42:24	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/transparent (from https://demo.voidcoders.com/htmldemo/hexa/main-files/index-3.html)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_444444_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_555555_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_ffffff_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_777620_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_cc0000_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:26	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/images/ui-icons_777777_256x240.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/jquery-ui.css)
+21:43:29	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/owl.video.play.png (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/css/owl.carousel.min.css)
+21:43:29	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/popper.js (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/js/bootstrap.min.js)
+21:43:29	Error: 	"Not Found" (404) at link https://demo.voidcoders.com/htmldemo/hexa/main-files/t,window.location.href (from https://demo.voidcoders.com/htmldemo/hexa/main-files/assets/js/lottie-player.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 191 links scanned, 177 files written (9490860 bytes overall) [6457915 bytes received at 31969 bytes/sec], 5477497 bytes transferred using HTTP compression in 92 files, ratio 35%, 15.7 requests per connection
+(11 errors, 0 warnings, 0 messages)

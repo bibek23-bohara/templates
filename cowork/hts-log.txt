@@ -1,0 +1,12 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 27 Jul 2023 23:56:02 at https://cowork.websitelayout.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://cowork.websitelayout.net/ -O "/home/bibek/montessori/cowork" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:59:57	Error: 	"Not Found" (404) at link https://cowork.websitelayout.net/css/owl.video.play.png (from https://cowork.websitelayout.net/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 55 seconds : 213 links scanned, 211 files written (10566497 bytes overall) [8375053 bytes received at 35638 bytes/sec], 2735523 bytes transferred using HTTP compression in 59 files, ratio 16%, 8.8 requests per connection
+(1 errors, 0 warnings, 0 messages)

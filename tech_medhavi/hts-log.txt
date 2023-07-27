@@ -1,0 +1,39 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 27 Jul 2023 23:32:45 at https://onekit.madethemes.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://onekit.madethemes.com/ -O "/home/bibek/montessori/tech_medhavi" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:45:33	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/sections/header/index.html (from https://onekit.madethemes.com/sections/header/header-1.html)
+23:45:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/sections/reviews.html (from https://onekit.madethemes.com/docs/plugins/flickity.html)
+23:45:34	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/sections/reviews.html (from https://onekit.madethemes.com/docs/plugins/flickity.html)
+23:45:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/img-min/logo/favicon.png (from https://onekit.madethemes.com/)
+23:45:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/img/section/coworking2.jpg (from https://onekit.madethemes.com/index-coworking.html)
+23:45:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/img/team/avatar4.png (from https://onekit.madethemes.com/index-event.html)
+23:46:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/img/brand/paypal-credit.png (from https://onekit.madethemes.com/index-event.html)
+23:46:02	Warning: 	HTML file (87075 bytes) retransferred due to lack of cache: https://onekit.madethemes.com/sections/header/header-1.html
+23:46:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/arrow-down-circle-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/checkmark-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/code-slash-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/newspaper-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/reorder-four-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/stats-chart-outline.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/logo-css3.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/logo-web-component.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/aos/dist/aos-rtl.css (from https://onekit.madethemes.com/index-rtl.html)
+23:46:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/css/theme-rtl.css (from https://onekit.madethemes.com/index-rtl.html)
+23:46:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/img-min/app/device/iphone-light.png (from https://onekit.madethemes.com/docs/components/device.html)
+23:46:11	Warning: 	HTML file (1236 bytes) retransferred due to lack of cache: https://onekit.madethemes.com/sections/reviews.html
+23:46:12	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/sections/reviews.html (from https://onekit.madethemes.com/docs/plugins/flickity.html)
+23:46:12	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/Trident/ (from https://onekit.madethemes.com/src/plugins/jarallax/dist/jarallax.min.js)
+23:46:12	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/Edge/ (from https://onekit.madethemes.com/src/plugins/jarallax/dist/jarallax.min.js)
+23:46:12	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/GET (from https://onekit.madethemes.com/src/plugins/jarallax/dist/jarallax-video.min.js)
+23:46:12	Error: 	"Not Found" (404) at link https://onekit.madethemes.com/dist/ (from https://onekit.madethemes.com/src/plugins/aos/dist/aos.js)
+23:46:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/logo-web-component.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+23:46:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://onekit.madethemes.com/src/css/theme-rtl.css (from https://onekit.madethemes.com/index-rtl.html)
+23:46:13	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://onekit.madethemes.com/src/plugins/ionicons/dist/svg/logo-web-component.svg (from https://onekit.madethemes.com/docs/svg-img/ionicons.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 28 seconds : 789 links scanned, 763 files written (17379529 bytes overall) [8802926 bytes received at 10894 bytes/sec], 11012223 bytes transferred using HTTP compression in 663 files, ratio 17%, 11.1 requests per connection
+(8 errors, 20 warnings, 0 messages)

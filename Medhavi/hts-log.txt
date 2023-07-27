@@ -1,0 +1,52 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 13 Jul 2023 14:42:13 at https://layerdrops.com/notechhtml/main-html/index-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://layerdrops.com/notechhtml/main-html/index-dark.html -O "/home/bibek/montessori/Medhavi" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:42:57	Error: 	"error:00000005:lib(0)::reason(5)" (-5) after 2 retries at link https://layerdrops.com/robots.txt (from primary/primary)
+14:42:57	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://layerdrops.com/notechhtml/main-html/index-dark.html (from primary/primary)
+14:45:02	Warning: 	Retry after error -2 (Connect Time Out) at link https://layerdrops.com/notechhtml/main-html/index-dark.html (from primary/primary)
+14:47:29	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://layerdrops.com/notechhtml/main-html/index-dark.html)
+14:47:30	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://layerdrops.com/notechhtml/main-html/index-dark.html)
+14:50:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery/jquery-3.6.0.min.js
+14:50:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/bootstrap/js/bootstrap.bundle.min.js
+14:51:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jarallax/jarallax.min.js
+14:51:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js
+14:51:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-appear/jquery.appear.min.js
+14:51:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js
+14:51:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js
+14:51:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-validate/jquery.validate.min.js
+14:51:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/nouislider/nouislider.min.js
+14:51:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/wnumb/wNumb.min.js
+14:51:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/odometer/odometer.min.js
+14:51:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/tiny-slider/tiny-slider.min.js
+14:51:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/swiper/swiper.min.js
+14:51:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/isotope/isotope.js
+14:51:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/countdown/countdown.min.js
+14:51:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/wow/wow.js
+14:51:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/owl-carousel/owl.carousel.min.js
+14:51:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/bxslider/jquery.bxslider.min.js
+14:51:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/vegas/vegas.min.js
+14:51:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/bootstrap-select/js/bootstrap-select.min.js
+14:51:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/jquery-ui/jquery-ui.js
+14:51:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/timepicker/timePicker.js
+14:51:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/js/notech.js
+14:51:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/toolbar/js/toolbar.js
+14:51:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/toolbar/js/js.cookie.min.js
+14:51:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/toolbar/js/jQuery.style.switcher.min.js
+14:51:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/nice-select/jquery.nice-select.min.js
+14:51:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.ttf
+14:51:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://layerdrops.com/notechhtml/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.ttf
+14:52:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://layerdrops.com/notechhtml/main-html/assets/images/brand/brand-1-1.png (from https://layerdrops.com/notechhtml/main-html/index.html)
+14:52:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://layerdrops.com/notechhtml/main-html/assets/images/brand/brand-1-2.png (from https://layerdrops.com/notechhtml/main-html/index.html)
+14:52:33	Error: 	"Not Found" (404) at link https://layerdrops.com/notechhtml/main-html/assets/vendors/owl-carousel/owl.video.play.png (from https://layerdrops.com/notechhtml/main-html/assets/vendors/owl-carousel/owl.carousel.min.css)
+14:52:33	Error: 	"Not Found" (404) at link https://layerdrops.com/notechhtml/main-html/assets/vendors/images/icon/bx_loader.gif (from https://layerdrops.com/notechhtml/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+14:52:33	Error: 	"Not Found" (404) at link https://layerdrops.com/notechhtml/main-html/assets/vendors/img/bx-slider/controls.png (from https://layerdrops.com/notechhtml/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+14:52:33	Error: 	"Not Found" (404) at link https://layerdrops.com/notechhtml/main-html/assets/vendors/vegas/overlays/02.png (from https://layerdrops.com/notechhtml/main-html/assets/vendors/vegas/vegas.min.css)
+14:52:33	Error: 	"Not Found" (404) at link https://layerdrops.com/notechhtml/main-html/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://layerdrops.com/notechhtml/main-html/assets/vendors/timepicker/timePicker.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 21 seconds : 359 links scanned, 390 files written (20406673 bytes overall) [11863686 bytes received at 19104 bytes/sec], 7976151 bytes transferred using HTTP compression in 142 files, ratio 29%, 10.6 requests per connection
+(8 errors, 33 warnings, 0 messages)
